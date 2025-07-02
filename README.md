@@ -7,6 +7,7 @@ iOS と Android スマートフォン版の URL を記載いたします。\
 \
 \
 iOS .ipa ファイル\
+https://drive.google.com/file/d/18HUbGoH404_gZJTxZiNZTRnUnfI3GZDQ/view?usp=sharing)\
 TestFlight の外部テスター用 URL を後日このリポジトリに記載いたします。\
 \
 Android .apk ファイル\
