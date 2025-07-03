@@ -6,6 +6,14 @@ iOS と Android スマートフォン版の URL を記載いたします。\
 お手持ちのスマートフォンにインストールして、確認していただければ幸いです。\
 \
 \
+DeployGate\
+iOS\
+https://webclip.deploygate.com/configuration-profile?distribution_access_key=3337b532acb9da929905f392966478d4647ac24a\
+
+\\
+
+
+\
 iOS .ipa ファイル\
 https://drive.google.com/file/d/18HUbGoH404_gZJTxZiNZTRnUnfI3GZDQ/view?usp=sharing)\
 TestFlight の外部テスター用 URL を後日このリポジトリに記載いたします。\
